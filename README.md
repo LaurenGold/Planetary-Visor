@@ -6,3 +6,5 @@ By visualizing the intersection of the orbiting instrument's field of view with 
 This repository contains a Unity project with a cross-platform VR scene, as well as a desktop scene. To use Planetary Visor in VR, open the “Visor Main XR scene”. To use Visor in desktop mode, open the “Desktop Visor” scene.
 ## Import your own datasets
 To visualize your own processed data with Planetary Visor, simply replace the the ddr and ssa files with your own
+## Terrain
+We obtained the Marias Pass terrain via Access Mars
