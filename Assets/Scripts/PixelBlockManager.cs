@@ -59,7 +59,11 @@ public class PixelBlockManager : MonoBehaviour {
     public void Update() {
         ShowActive();
         t = lineIndex / (numLines - 1);
-        moveMROmgr.MoveBetween(t);
+
+        if (moveMROmgr != null)
+        {
+            moveMROmgr.MoveBetween(t);
+        }
     }
 
     /// <summary>
@@ -160,16 +164,6 @@ public class PixelBlockManager : MonoBehaviour {
         // skip average pixel blocks when just changing the colors
         if (pixelBlocks[ActivePixelBlock].averagePixelBlock) {
             NextPixelBlock();
-        }
-    }
-
-    public void NextAveragePixelBlock() {
-        ActivePixelBlock = (ActivePixelBlock + pixelBlocks.Count + 1) % pixelBlocks.Count;
-        laserpointer.setColor(pixelBlocks[ActivePixelBlock].pb_color);
-
-        // skip average pixel blocks when just changing the colors
-        if (!pixelBlocks[ActivePixelBlock].averagePixelBlock) {
-            NextAveragePixelBlock();
         }
     }
 

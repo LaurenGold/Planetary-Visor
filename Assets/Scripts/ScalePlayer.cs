@@ -41,6 +41,24 @@ public class ScalePlayer : MonoBehaviour {
     public void Update() {
         if (lHandController == null || rHandController == null)
             AssignControllers();
+        
+        // if we're below 5 scale, then correct y position
+        if (transform.lossyScale.y < 5.0f) {
+            RaycastHit hitObject;
+            int terrainLayer = 1 << 31;
+
+            // test the terrain for any collisions, and correct player object for them
+            Vector3 start = transform.position + Vector3.up * 1000f;
+            Ray raycast = new Ray(start, Vector3.up * -1f);
+            bool rayHit = Physics.Raycast(raycast, out hitObject, 2000f, terrainLayer);
+            if (rayHit) {
+                transform.position = new Vector3(
+                    transform.position.x,
+                    hitObject.point.y, // correct y position
+                    transform.position.z
+                );
+            }
+        }
     }
 
     /// <summary>

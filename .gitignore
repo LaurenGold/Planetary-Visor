@@ -63,4 +63,8 @@ Assets/MariasPass_LOD.fbx
 Assets/Resources/Images/hirise_pahrump_marias_pass.tif
 Assets/Resources/ssa.bytes
 
+*.fbx
+*.tif
+*.bytes
+
 
