@@ -7,6 +7,6 @@ Download our apk or desktop version here: https://drive.google.com/drive/u/0/fol
 ## Contents
 This repository contains a Unity project with a cross-platform VR scene, as well as a desktop scene. To use Planetary Visor in VR, open the “Visor Main XR scene”. To use Visor in desktop mode, open the “Desktop Visor” scene.
 ## Import your own datasets
-To visualize your own processed data with Planetary Visor, simply replace the the ddr and ssa files with your own
+To visualize your own processed data with Planetary Visor, simply replace the the ddr and ssa files with your own.
 ## Terrain
-We obtained the Marias Pass terrain from Access Mars
+We obtained the Marias Pass terrain from Access Mars.
