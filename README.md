@@ -1,6 +1,7 @@
 # Planetary-Visor
 ![](Images/teaser.png) 
-![](multi.png)
+
+![](Images/multi.png)
 
 ## About
 Planetary Visor is our virtual reality tool to visualize orbital and rover-based datasets the ongoing traverse of the NASA Curiosity rover in Gale Crater. Data from orbital spectrometers provide insight about the composition of planetary terrains. Meanwhile, Curiosity rover data provide fine-scaled localized information about Martian geology.
