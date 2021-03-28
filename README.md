@@ -5,10 +5,10 @@ Planetary Visor is our virtual reality tool to visualize orbital and rover-based
 By visualizing the intersection of the orbiting instrument's field of view with the rover-scale topography, and providing interactive navigation controls, Visor constitutes a platform for users to intuitively understand the scale and context of the Martian geologic data under scientific investigation.
 ## Downloads
 <br>
-a. [Quest/Quest2](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
+[Quest/Quest2](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
 <br/>
 <br>
-b. [Desktop](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
+[Desktop](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
 <br/>
 
 ## Contents
