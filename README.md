@@ -11,5 +11,5 @@ This repository contains a Unity project with a cross-platform VR scene, as well
 ## Import your own datasets
 To visualize your own processed data with Planetary Visor, simply replace the the ddr and ssa files with your own.
 ## Terrain
-We obtained the Marias Pass terrain from Google Creative Lab's [Access Mars](https://github.com/googlecreativelab/access-mars).
+The Marias Pass terrain was provided by Google Creative Lab's [Access Mars](https://github.com/googlecreativelab/access-mars).
 
