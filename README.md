@@ -8,7 +8,8 @@ By visualizing the intersection of the orbiting instrument's field of view with 
 [Quest/Quest2](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
 <br/>
 <br>
-[Desktop](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
+[Mac](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
+[Windows](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
 <br/>
 
 ## Contents
