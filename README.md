@@ -1,8 +1,5 @@
 # Planetary-Visor
 ![](Images/teaser.png) 
-
-![](3-23-2021 6_39_05 PM.png)
-
 ![](multi.png)
 
 ## About
