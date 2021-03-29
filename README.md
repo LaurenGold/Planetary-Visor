@@ -11,11 +11,11 @@ A large polyhedron represents a single pixel from the CRISM instrument on the Ma
 For more information, please refer to our specifications sheet [here](https://docs.google.com/document/d/1kGCzEMR2xrff4Ix_1EuVwuAB_juHsJ6bS9WEtmvN8OQ/edit?usp=sharing).
 
 ## Downloads
-a. [Quest/Quest2](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
+a. [Quest/Quest2 .apk](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
 
-b. [Mac](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
+b. [Mac Desktop app](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
 
-c. [Windows](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
+c. [Windows Desktop app](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
 ## Contents
 This repository contains a Unity project (version 2019.4) with a cross-platform VR scene, as well as a desktop scene. 
 
