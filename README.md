@@ -17,9 +17,10 @@ b. [Mac](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FR
 
 c. [Windows](https://drive.google.com/drive/u/0/folders/17XL8BXiAt1yD2579Hp4jL3Yb1FRPufyY)
 ## Contents
-This repository contains a Unity project with a cross-platform VR scene, as well as a desktop scene. To use Planetary Visor in VR, open the “Visor Main XR scene”. To use Visor in desktop mode, open the “Desktop Visor” scene. The Unity version is 2019.4.
+This repository contains a Unity project (version 2019.4) with a cross-platform VR scene, as well as a desktop scene. To use Planetary Visor in VR, open the “Visor Main XR scene”. To use Visor in desktop mode, open the “Desktop Visor” scene. 
 
 Instructions for use:
+
 Add [this file](https://drive.google.com/file/d/1CCanj8WCWzXFJ99qGjfwHSd6wggRgGys/view?usp=sharing) to the Assets/Resources folder.
 To add the accompanying HiRISE mesh, find it [here](https://drive.google.com/file/d/1cAhYsbwRMsdiet7UFBo99PIZeNEpnXHr/view?usp=sharing) and drag it to the Assets/Resources/Images folder.
 ## Import your own datasets
