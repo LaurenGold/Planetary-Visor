@@ -20,7 +20,7 @@ This repository contains a Unity project with a cross-platform VR scene, as well
 Instructions for use:
 Add [this file](https://drive.google.com/file/d/1CCanj8WCWzXFJ99qGjfwHSd6wggRgGys/view?usp=sharing) to the Resources folder.
 To add the accompanying Hirise mesh, find it [here](). 
-In Unity, click on the Hirise mesh and change the values in the inspector to this:
+In Unity, click on the Hirise mesh and enter the following values:
 ![](Images/values.png)
 ## Import your own datasets
 To visualize your own processed data with Planetary Visor, navigate to Assets/Resources and simply replace the the ddr.bytes file with your own. Additionally, you can add your own reflectance data by swapping out the ssa file for your own.
