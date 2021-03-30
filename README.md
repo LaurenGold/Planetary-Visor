@@ -26,4 +26,13 @@ To add the accompanying [HiRISE mesh](https://drive.google.com/file/d/1cAhYsbwRM
 To visualize your own processed data with Planetary Visor, navigate to Assets/Resources and simply replace the the ddr.bytes file with your own. Additionally, you can add your own reflectance data by swapping out the ssa file for your own.
 ## Terrain
 The Marias Pass terrain in this repository was provided by Google Creative Lab's [Access Mars](https://github.com/googlecreativelab/access-mars).
-
+## Contributors
+Connor Richards
+Kyle Sese
+Hector Taylor
+Don Balanzat
+Olivia Wang
+Jacob Watson
+Hannah Bartolomea
+Alice Bao
+Lauren Gold
