@@ -27,9 +27,9 @@ To visualize your own processed data with Planetary Visor, navigate to Assets/Re
 ## Terrain
 The Marias Pass terrain in this repository was provided by Google Creative Lab's [Access Mars](https://github.com/googlecreativelab/access-mars).
 ## Contributors
-Alireza Bahremand__
-Kathryn Powell__
-Robert LiKamWa__
+Alireza Bahremand<br />
+Kathryn Powell<br />
+Robert LiKamWa<br />
 Connor Richards  
 Kyle Sese   
 Hector Taylor   
