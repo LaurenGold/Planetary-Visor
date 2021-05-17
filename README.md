@@ -30,9 +30,9 @@ The Marias Pass terrain in this repository was provided by Google Creative Lab's
 
 ## Team Leads 
 Lauren Gold, PhD Student <br/>
-[]https://github.com/TheWiselyBearded/assign-git Alireza Bahremand, PhD Student <br />
+[Alireza Bahremand](https://github.com/TheWiselyBearded/assign-git), PhD Student <br />
 Kathryn Powell Planetary Scientist, Consultant <br />
-[]https://github.com/roblkw-asu Robert LiKamWa Principal Investigator <br />
+[Robert LiKamWa](https://github.com/roblkw-asu), Principal Investigator <br />
 
 ## Development Team 
 Connor Richards  
