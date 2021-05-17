@@ -37,6 +37,9 @@ Kathryn Powell, Planetary Scientist, Consultant <br />
 ## Development Team 
 Connor Richards  
 Kyle Sese   
+Justin Hertzberg
+Alexander Gonzalez
+Zoe Purcell
 Hector Taylor   
 Don Balanzat       
 Olivia Wang   
