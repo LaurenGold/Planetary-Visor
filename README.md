@@ -2,13 +2,12 @@
 ![](Images/teaser.png) 
 
 ## About
-Planetary Visor is our virtual reality tool to visualize orbital and rover-based datasets the ongoing traverse of the NASA Curiosity rover in Gale Crater. Data from orbital spectrometers provide insight about the composition of planetary terrains. Meanwhile, Curiosity rover data provide fine-scaled localized information about Martian geology.
-
-By visualizing the intersection of the orbiting instrument's field of view with the rover-scale topography, and providing interactive navigation controls, Visor constitutes a platform for users to intuitively understand the scale and context of the Martian geologic data under scientific investigation.
+Planetary Visor is an immersive visualization tool that provides geologic and geographic context of the Martian terrain, by localizing it with spectroscopy data from the orbiting satellite. Through the use of virtual reality, we can immerse scientists in the data they study, while providing an intuitive sense of scale that is not possible with traditional tools. This technology is relevant to the ongoing operations of the Curiosity rover and will directly be able to represent the data collected in the Mars 2020 Perseverance rover mission.
 
 A large polyhedron represents a single pixel from the CRISM instrument on the Mars Reconnaissance Orbiter (MRO), a satellite orbiting Mars. The shape of the pixel indicates the angle of incidence of  the MRO when it scanned the ground. In your right hand, a spectral plotter shows the spectral CRISM reading of the pixel. As you drag the pixel around with the right hand trigger button, you can relocate the pixel, dynamically plotting captured spectra of the terrain.
 
-For more information, please refer to our specifications sheet [here](https://docs.google.com/document/d/1kGCzEMR2xrff4Ix_1EuVwuAB_juHsJ6bS9WEtmvN8OQ/edit?usp=sharing).
+For more information, please refer to our [specifications sheet](https://docs.google.com/document/d/1kGCzEMR2xrff4Ix_1EuVwuAB_juHsJ6bS9WEtmvN8OQ/edit?usp=sharing) and our [paper](https://ieeexplore.ieee.org/abstract/document/9417645).
+
 
 ## Downloads
 a. [Quest/Quest2 .apk](https://drive.google.com/drive/u/0/folders/1saZhpeA-oVFzD2kpPOjG9ppVDmhHgpDY)
