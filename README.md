@@ -6,7 +6,7 @@ Planetary Visor is an immersive visualization tool that provides geologic and ge
 
 A large polyhedron represents a single pixel from the CRISM instrument on the Mars Reconnaissance Orbiter (MRO), a satellite orbiting Mars. The shape of the pixel indicates the angle of incidence of  the MRO when it scanned the ground. In your right hand, a spectral plotter shows the spectral CRISM reading of the pixel. As you drag the pixel around with the right hand trigger button, you can relocate the pixel, dynamically plotting captured spectra of the terrain.
 
-For more information, please refer to our [specifications sheet](https://docs.google.com/document/d/1kGCzEMR2xrff4Ix_1EuVwuAB_juHsJ6bS9WEtmvN8OQ/edit?usp=sharing) and our [paper](https://ieeexplore.ieee.org/abstract/document/9417645).
+For more information, please refer to our [paper](https://ieeexplore.ieee.org/abstract/document/9417645) and [specifications sheet](https://docs.google.com/document/d/1kGCzEMR2xrff4Ix_1EuVwuAB_juHsJ6bS9WEtmvN8OQ/edit?usp=sharing).
 
 
 ## Downloads
